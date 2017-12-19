@@ -1,4 +1,6 @@
 
+alert("This is not a real product. I was asked by a student to create a sample website for their marketing class");
+
 $(window).on("load", function() {
     $(".loadertext").fadeOut(1000);
     $(".loader").fadeOut(2000);
